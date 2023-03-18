@@ -2,7 +2,6 @@
 
 This is a python tool packages for differential network inference (DNI). 
 
--------------------------------------------------------------
 This package mainly contains:
 
 - Differential network inference models:
