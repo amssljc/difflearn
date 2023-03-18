@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 setup(
     name='difflearn',  # 包的名称
     packages=find_packages(),  # 包含的模块
-    version='1.0.2',
+    version='1.0.3',
     author='Jiacheng Leng',
     author_email='jcleng@amss.ac.cn',
     description='Some useful tools for differential network inference with python.',
