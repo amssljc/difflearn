@@ -23,7 +23,7 @@ This package mainly contains:
         - scale-free;
 - Visulization tools and some useful utilities.
 
-## Requirments:
+## Requirements:
 Before installation, you should:
 
 1. install [pytorch](https://pytorch.org/) yourself according to your environment;
