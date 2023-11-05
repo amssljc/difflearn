@@ -1,4 +1,4 @@
-# difflearn
+# difflearn [![Downloads](https://static.pepy.tech/badge/difflearn)](https://pepy.tech/project/difflearn)
 
 This is a python tool packages for differential network inference (DNI). 
 
