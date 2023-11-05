@@ -25,10 +25,10 @@ This package mainly contains:
 - Visulization tools and some useful utilities.
 
 ## Requirements:
-Before installation, you should:
+Before install `difflearn`, you should first:
 
-1. install [pytorch](https://pytorch.org/) yourself according to your environment;
-2. install [R language](https://www.r-project.org/) and R packages as follows:
+1. install [pytorch](https://pytorch.org/) according to your environment;
+2. install [R language](https://www.r-project.org/) and then install R packages as follows:
     - JGL
         ```r
         install.packages( "JGL" )
